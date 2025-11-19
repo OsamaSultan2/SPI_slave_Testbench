@@ -1,0 +1,16 @@
+SPI_slave_IF.sv
+SPI_slave_config.sv
+SPI_slave_sva.sv
+SPI_slave.sv
+Golden_model.v
+SPI_slave_sequence_item.sv
+SPI_slave_sequence.sv
+SPI_slave_sequencer.sv
+SPI_slave_driver.sv
+SPI_slave_monitor.sv
+SPI_slave_coverage_collect.sv
+SPI_slave_scoreboard.sv
+SPI_slave_agent.sv
+SPI_slave_env.sv
+SPI_slave_test.sv
+top.sv
